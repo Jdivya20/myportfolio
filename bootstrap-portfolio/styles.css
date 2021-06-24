@@ -19,13 +19,27 @@ h1,h3{
     background-color:#212529;
 
 }
-.content{
-    background-color:indianred;
+.content2{
+    background-image: url('images/web-1012467_1920.jpg');
+    background-color:steelblue;
+    background-size: cover;
+    background-position: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
     text-align: justify;
     padding: 20px;
     font-size: large;
+}
+.content{
+  background-image: url('https://image.freepik.com/free-vector/abstract-glow-dark-circuit-board-technology-background_33403-64.jpg');
+  background-color:steelblue;
+  background-size: cover;
+  background-position: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  text-align: justify;
+  padding: 20px;
+  font-size: large;
 }
 img{
     display: block;
